@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "twilightforest:fluffy_cloud"
+    },
+    "-": {
+      "item": "aether:skyroot_powder_snow_bucket"
+    }
+  },
+  "pattern": [
+    "###",
+    "#-#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "twilightforest:snowy_cloud"
+  },
+  "show_notification": true
+}

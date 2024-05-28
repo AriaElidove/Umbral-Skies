@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "tag": "aether:aerclouds"
+    },
+    "-": {
+      "item": "minecraft:powder_snow_bucket"
+    }
+  },
+  "pattern": [
+    "###",
+    "#-#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "twilightforest:snowy_cloud"
+  },
+  "show_notification": true
+}

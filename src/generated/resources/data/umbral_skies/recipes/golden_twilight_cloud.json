@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "twilightforest:fluffy_cloud"
+    },
+    "-": {
+      "item": "aether:golden_amber"
+    }
+  },
+  "pattern": [
+    "###",
+    "#-#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "aether:golden_aercloud"
+  },
+  "show_notification": true
+}

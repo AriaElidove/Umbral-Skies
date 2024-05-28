@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "twilightforest:fluffy_cloud"
+    },
+    "-": {
+      "item": "aether:swet_ball"
+    }
+  },
+  "pattern": [
+    "###",
+    "#-#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "aether:blue_aercloud"
+  },
+  "show_notification": true
+}
